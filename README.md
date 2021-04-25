@@ -1,4 +1,4 @@
-# :rocket: Css animations :rocket:
+# :rocket: Css Animations :rocket:
 
 <p>This repo is dedicated to my <strong>css animations</strong>.<p>
 <p>Below you can see what I learned from each animation.</p>
