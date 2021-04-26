@@ -1,7 +1,7 @@
 # :rocket: Css Animations :rocket:
 
 <p>This repo is dedicated to my <strong>css animations</strong>.<p>
-<p>Below you can see what I learned from each animation.</p>
+<p>Below you can see what I used for each animation.</p>
 
 *****
 <h3>01 - Courage Text Animation</h3>
