@@ -13,7 +13,7 @@
 
 <h3>02 - Courage Text Animation</h3>
 <p>:heavy_check_mark: filter: hue-rotation</p>
-<p>:heavy_check_mark: animations and keyframes</p>
+<p>:heavy_check_mark: animations and @keyframes</p>
 
 ![neontextanimation](https://user-images.githubusercontent.com/64004289/120070191-c8644880-c089-11eb-97d9-1b22f85693de.gif)
 
