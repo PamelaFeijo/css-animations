@@ -1,3 +1,4 @@
+
 # :rocket: Css Animations :rocket:
 
 <p>This repo is dedicated to my <strong>css animations</strong>.<p>
@@ -20,4 +21,4 @@
 <h3>03 - Parallax Scrolling Effect</h3>
 <p>:heavy_check_mark: effect with Vanilla Javascript</p>
 
-![parallaxscrollingeffect](./moon.gif)
+![parallaxscrollingeffect](https://user-images.githubusercontent.com/64004289/121957232-6af71980-cd62-11eb-82ab-69527f069384.gif)
