@@ -17,3 +17,7 @@
 
 ![neontextanimation](https://user-images.githubusercontent.com/64004289/120070191-c8644880-c089-11eb-97d9-1b22f85693de.gif)
 
+<h3>03 - Parallax Scrolling Effect</h3>
+<p>:heavy_check_mark: effect with Vanilla Javascript</p>
+
+![parallaxscrollingeffect](./moon.gif)
