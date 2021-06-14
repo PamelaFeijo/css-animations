@@ -21,4 +21,5 @@
 <h3>03 - Parallax Scrolling Effect</h3>
 <p>:heavy_check_mark: effect with Vanilla Javascript</p>
 
-![parallaxscrollingeffect](https://user-images.githubusercontent.com/64004289/121957232-6af71980-cd62-11eb-82ab-69527f069384.gif)
+![parallaxscrollingeffect](https://user-images.githubusercontent.com/64004289/121957497-c32e1b80-cd62-11eb-9527-62f53668904f.gif)
+
